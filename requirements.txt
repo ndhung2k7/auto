@@ -1,0 +1,12 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+requests==2.31.0
+selenium==4.15.2
+undetected-chromedriver==3.5.4
+schedule==1.2.0
+python-dotenv==1.0.0
+fake-useragent==1.4.0
+aiohttp==3.9.1
+asyncio==3.4.3
+pydantic==2.5.0
+PySocks==1.7.1
