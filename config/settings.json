@@ -1,0 +1,22 @@
+{
+  "default_delay": {
+    "between_comments": 200,
+    "between_accounts": 60,
+    "random_range": 30
+  },
+  "scheduler": {
+    "enabled": false,
+    "schedule_time": "09:00",
+    "daily_comments": 50
+  },
+  "anti_detect": {
+    "random_user_agent": true,
+    "random_mouse_movement": true,
+    "human_behavior_delay": true
+  },
+  "retry": {
+    "max_attempts": 3,
+    "delay_on_fail": 120
+  },
+  "log_level": "INFO"
+}
